@@ -12,3 +12,19 @@
     color: #1e1e1e;
     transition: all 0.5s;
 }
+.header_button{
+    background-color: white;
+    color:#1e1e1e;
+    border: none;
+    padding: 7px 30px;
+    margin: 2px 5px;
+    text-align: center;
+    font-weight: 700;
+    border-radius: 3px;
+}
+.header_button:hover{
+    color: #3a8bcd;
+}
+.login_button{
+    text-align: right;
+}
